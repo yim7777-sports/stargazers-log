@@ -1,0 +1,11 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+  <head> 
+    <meta charset="utf-8"> 
+    <title>별을 추가한 저장소 목록</title> 
+  </head> 
+  <body> 
+    <h1>별을 추가한 저장소 목록</h1> 
+    <p>내가 별을 추가한 저장소 목록입니다.</p> 
+  </body> 
+</html>
